@@ -1,0 +1,18 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "biomesoplenty:mud"
+    }
+
+    ],
+
+    "result": 
+    {
+        "item": "biomesoplenty:mud_ball",
+        "count": 4
+    }
+}

@@ -1,0 +1,13 @@
+//Items
+
+//Tools
+item.sword_mud.name=Hardened Mud Sword
+item.spade_mud.name=Hardened Mud Shovel
+item.axe_mud.name=Hardened Mud Axe
+item.hoe_mud.name=Hardened Mud Hoe
+item.pickaxe_mud.name=Hardened Mud Pickaxe
+
+//Blocks
+
+//Misc
+itemGroup.modtab=BOP Extras

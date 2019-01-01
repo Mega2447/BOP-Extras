@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "RRR",
+        " S ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "biomesoplenty:mud_brick"
+        },
+        "S":
+        {
+            "type": "forge:ore_dict",
+            "ore": "stickWood"
+        }
+    },
+    
+    "result":
+    {
+        "item": "bopex:pickaxe_mud",
+        "count": 1
+    }
+}
