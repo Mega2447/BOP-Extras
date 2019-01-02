@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+        "item": "biomesoplenty:hard_ice"
+    },
+    
+    {
+        "item": "minecraft:lava_bucket"
+    }
+
+    ],
+
+    "result": 
+    {
+        "item": "minecraft:water_bucket",
+        "count": 1
+    }
+}
